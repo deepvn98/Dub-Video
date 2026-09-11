@@ -1,0 +1,3775 @@
+[
+  {
+    "id": 1,
+    "seek": 0,
+    "start": 0.0,
+    "end": 4.78,
+    "text": " Pero a miles de kilómetros de distancia, otro gran ciclo ya está comenzando.",
+    "tokens": [
+      50364,
+      9377,
+      257,
+      6193,
+      368,
+      5128,
+      812,
+      29570,
+      368,
+      1483,
+      22862,
+      11,
+      11921,
+      9370,
+      27464,
+      752,
+      2478,
+      3192,
+      29564,
+      1806,
+      13,
+      50624
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.32,
+        "word": " Pero",
+        "probability": 0.780362069606781
+      },
+      {
+        "start": 0.32,
+        "end": 0.44,
+        "word": " a",
+        "probability": 0.876867413520813
+      },
+      {
+        "start": 0.44,
+        "end": 0.62,
+        "word": " miles",
+        "probability": 0.9947919249534607
+      },
+      {
+        "start": 0.62,
+        "end": 0.82,
+        "word": " de",
+        "probability": 0.9975838661193848
+      },
+      {
+        "start": 0.82,
+        "end": 1.24,
+        "word": " kilómetros",
+        "probability": 0.9766305088996887
+      },
+      {
+        "start": 1.24,
+        "end": 1.42,
+        "word": " de",
+        "probability": 0.996434211730957
+      },
+      {
+        "start": 1.42,
+        "end": 2.02,
+        "word": " distancia,",
+        "probability": 0.9989870488643646
+      },
+      {
+        "start": 2.42,
+        "end": 2.7,
+        "word": " otro",
+        "probability": 0.9905836582183838
+      },
+      {
+        "start": 2.7,
+        "end": 2.96,
+        "word": " gran",
+        "probability": 0.9929943680763245
+      },
+      {
+        "start": 2.96,
+        "end": 3.44,
+        "word": " ciclo",
+        "probability": 0.9970101416110992
+      },
+      {
+        "start": 3.44,
+        "end": 3.82,
+        "word": " ya",
+        "probability": 0.9290148019790649
+      },
+      {
+        "start": 3.82,
+        "end": 4.1,
+        "word": " está",
+        "probability": 0.9836423397064209
+      },
+      {
+        "start": 4.1,
+        "end": 4.78,
+        "word": " comenzando.",
+        "probability": 0.9959289133548737
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 2,
+    "seek": 0,
+    "start": 5.2,
+    "end": 10.9,
+    "text": " A lo largo de la costa sud-oriental de Sudáfrica, se encuentran dos grandes corrientes oceánicas.",
+    "tokens": [
+      50624,
+      316,
+      450,
+      31245,
+      368,
+      635,
+      2063,
+      64,
+      3707,
+      12,
+      19521,
+      304,
+      368,
+      12323,
+      842,
+      69,
+      15192,
+      11,
+      369,
+      23708,
+      4257,
+      4491,
+      16640,
+      47908,
+      9240,
+      277,
+      384,
+      7200,
+      9150,
+      13,
+      50939
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 5.2,
+        "end": 5.36,
+        "word": " A",
+        "probability": 0.9756472110748291
+      },
+      {
+        "start": 5.36,
+        "end": 5.44,
+        "word": " lo",
+        "probability": 0.9975656270980835
+      },
+      {
+        "start": 5.44,
+        "end": 5.66,
+        "word": " largo",
+        "probability": 0.9995343685150146
+      },
+      {
+        "start": 5.66,
+        "end": 5.82,
+        "word": " de",
+        "probability": 0.9945250749588013
+      },
+      {
+        "start": 5.82,
+        "end": 5.92,
+        "word": " la",
+        "probability": 0.9957432150840759
+      },
+      {
+        "start": 5.92,
+        "end": 6.26,
+        "word": " costa",
+        "probability": 0.9644452333450317
+      },
+      {
+        "start": 6.26,
+        "end": 6.46,
+        "word": " sud",
+        "probability": 0.8153287768363953
+      },
+      {
+        "start": 6.46,
+        "end": 7.04,
+        "word": "-oriental",
+        "probability": 0.8452310562133789
+      },
+      {
+        "start": 7.04,
+        "end": 7.14,
+        "word": " de",
+        "probability": 0.9894477128982544
+      },
+      {
+        "start": 7.14,
+        "end": 7.72,
+        "word": " Sudáfrica,",
+        "probability": 0.9655932635068893
+      },
+      {
+        "start": 8.08,
+        "end": 8.44,
+        "word": " se",
+        "probability": 0.9933333992958069
+      },
+      {
+        "start": 8.44,
+        "end": 8.98,
+        "word": " encuentran",
+        "probability": 0.997308999300003
+      },
+      {
+        "start": 8.98,
+        "end": 9.2,
+        "word": " dos",
+        "probability": 0.9914795160293579
+      },
+      {
+        "start": 9.2,
+        "end": 9.5,
+        "word": " grandes",
+        "probability": 0.9932975172996521
+      },
+      {
+        "start": 9.5,
+        "end": 10.12,
+        "word": " corrientes",
+        "probability": 0.9939053654670715
+      },
+      {
+        "start": 10.12,
+        "end": 10.9,
+        "word": " oceánicas.",
+        "probability": 0.9253067970275879
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 3,
+    "seek": 0,
+    "start": 11.54,
+    "end": 17.24,
+    "text": " Aguas frías y ricas en nutrientes ascienden desde las profundidades, transformando este",
+    "tokens": [
+      50939,
+      2725,
+      84,
+      296,
+      431,
+      10025,
+      288,
+      367,
+      9150,
+      465,
+      13242,
+      9240,
+      382,
+      537,
+      8896,
+      10188,
+      2439,
+      40958,
+      10284,
+      11,
+      4088,
+      1806,
+      4065,
+      51226
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 11.54,
+        "end": 11.88,
+        "word": " Aguas",
+        "probability": 0.9800123771031698
+      },
+      {
+        "start": 11.88,
+        "end": 12.26,
+        "word": " frías",
+        "probability": 0.9640645980834961
+      },
+      {
+        "start": 12.26,
+        "end": 12.46,
+        "word": " y",
+        "probability": 0.994620680809021
+      },
+      {
+        "start": 12.46,
+        "end": 12.72,
+        "word": " ricas",
+        "probability": 0.9922690093517303
+      },
+      {
+        "start": 12.72,
+        "end": 12.94,
+        "word": " en",
+        "probability": 0.9830485582351685
+      },
+      {
+        "start": 12.94,
+        "end": 13.5,
+        "word": " nutrientes",
+        "probability": 0.9906950294971466
+      },
+      {
+        "start": 13.5,
+        "end": 14.4,
+        "word": " ascienden",
+        "probability": 0.8834651708602905
+      },
+      {
+        "start": 14.4,
+        "end": 14.68,
+        "word": " desde",
+        "probability": 0.9863240122795105
+      },
+      {
+        "start": 14.68,
+        "end": 14.92,
+        "word": " las",
+        "probability": 0.9878010749816895
+      },
+      {
+        "start": 14.92,
+        "end": 15.66,
+        "word": " profundidades,",
+        "probability": 0.9994950890541077
+      },
+      {
+        "start": 16.22,
+        "end": 17.04,
+        "word": " transformando",
+        "probability": 0.9881297647953033
+      },
+      {
+        "start": 17.04,
+        "end": 17.24,
+        "word": " este",
+        "probability": 0.9922304749488831
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 4,
+    "seek": 0,
+    "start": 17.24,
+    "end": 20.54,
+    "text": " tramo de costa durante unas pocas semanas cada año.",
+    "tokens": [
+      51226,
+      504,
+      10502,
+      368,
+      2063,
+      64,
+      14427,
+      25405,
+      714,
+      16369,
+      42507,
+      8411,
+      15984,
+      13,
+      51416
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 17.24,
+        "end": 17.56,
+        "word": " tramo",
+        "probability": 0.9916019439697266
+      },
+      {
+        "start": 17.56,
+        "end": 17.68,
+        "word": " de",
+        "probability": 0.9987813830375671
+      },
+      {
+        "start": 17.68,
+        "end": 18.34,
+        "word": " costa",
+        "probability": 0.9951506555080414
+      },
+      {
+        "start": 18.34,
+        "end": 18.8,
+        "word": " durante",
+        "probability": 0.9341805577278137
+      },
+      {
+        "start": 18.8,
+        "end": 19.08,
+        "word": " unas",
+        "probability": 0.9907513856887817
+      },
+      {
+        "start": 19.08,
+        "end": 19.44,
+        "word": " pocas",
+        "probability": 0.9977705776691437
+      },
+      {
+        "start": 19.44,
+        "end": 19.86,
+        "word": " semanas",
+        "probability": 0.9987450838088989
+      },
+      {
+        "start": 19.86,
+        "end": 20.16,
+        "word": " cada",
+        "probability": 0.8434056043624878
+      },
+      {
+        "start": 20.16,
+        "end": 20.54,
+        "word": " año.",
+        "probability": 0.9977746605873108
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 5,
+    "seek": 0,
+    "start": 21.06,
+    "end": 25.78,
+    "text": " Durante unas pocas semanas, estas aguas se convierten en una zona de alimentación",
+    "tokens": [
+      51416,
+      13710,
+      2879,
+      25405,
+      714,
+      16369,
+      42507,
+      11,
+      13897,
+      34438,
+      296,
+      369,
+      3754,
+      29632,
+      465,
+      2002,
+      24848,
+      368,
+      17043,
+      3482,
+      51658
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 21.06,
+        "end": 21.48,
+        "word": " Durante",
+        "probability": 0.9948225319385529
+      },
+      {
+        "start": 21.48,
+        "end": 21.66,
+        "word": " unas",
+        "probability": 0.9970700740814209
+      },
+      {
+        "start": 21.66,
+        "end": 22.02,
+        "word": " pocas",
+        "probability": 0.9989358484745026
+      },
+      {
+        "start": 22.02,
+        "end": 22.42,
+        "word": " semanas,",
+        "probability": 0.9983381032943726
+      },
+      {
+        "start": 22.9,
+        "end": 23.14,
+        "word": " estas",
+        "probability": 0.9869815707206726
+      },
+      {
+        "start": 23.14,
+        "end": 23.52,
+        "word": " aguas",
+        "probability": 0.9986993074417114
+      },
+      {
+        "start": 23.52,
+        "end": 23.68,
+        "word": " se",
+        "probability": 0.9978700876235962
+      },
+      {
+        "start": 23.68,
+        "end": 24.18,
+        "word": " convierten",
+        "probability": 0.9961662590503693
+      },
+      {
+        "start": 24.18,
+        "end": 24.42,
+        "word": " en",
+        "probability": 0.9985405206680298
+      },
+      {
+        "start": 24.42,
+        "end": 24.58,
+        "word": " una",
+        "probability": 0.9947250485420227
+      },
+      {
+        "start": 24.58,
+        "end": 24.88,
+        "word": " zona",
+        "probability": 0.9964407086372375
+      },
+      {
+        "start": 24.88,
+        "end": 25.06,
+        "word": " de",
+        "probability": 0.9985815286636353
+      },
+      {
+        "start": 25.06,
+        "end": 25.78,
+        "word": " alimentación",
+        "probability": 0.9979031085968018
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 6,
+    "seek": 0,
+    "start": 25.78,
+    "end": 28.92,
+    "text": " como ninguna otra, vista desde lo alto.",
+    "tokens": [
+      51658,
+      2617,
+      36073,
+      13623,
+      11,
+      22553,
+      10188,
+      450,
+      21275,
+      13,
+      51846
+    ],
+    "avg_logprob": -0.13751329647170174,
+    "compression_ratio": 1.6529850746268657,
+    "no_speech_prob": 0.019490288570523262,
+    "words": [
+      {
+        "start": 25.78,
+        "end": 26.16,
+        "word": " como",
+        "probability": 0.9060338735580444
+      },
+      {
+        "start": 26.16,
+        "end": 26.58,
+        "word": " ninguna",
+        "probability": 0.997328519821167
+      },
+      {
+        "start": 26.58,
+        "end": 27.0,
+        "word": " otra,",
+        "probability": 0.9963449835777283
+      },
+      {
+        "start": 27.48,
+        "end": 28.04,
+        "word": " vista",
+        "probability": 0.9602617025375366
+      },
+      {
+        "start": 28.04,
+        "end": 28.3,
+        "word": " desde",
+        "probability": 0.9749978184700012
+      },
+      {
+        "start": 28.3,
+        "end": 28.58,
+        "word": " lo",
+        "probability": 0.9831251502037048
+      },
+      {
+        "start": 28.58,
+        "end": 28.92,
+        "word": " alto.",
+        "probability": 0.9986787438392639
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 7,
+    "seek": 2892,
+    "start": 29.680000000000003,
+    "end": 32.08,
+    "text": " El océano parece cobrar vida.",
+    "tokens": [
+      50402,
+      2699,
+      10409,
+      526,
+      3730,
+      14120,
+      598,
+      30280,
+      7644,
+      13,
+      50556
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 29.44,
+        "end": 29.82,
+        "word": " El",
+        "probability": 0.3770374357700348
+      },
+      {
+        "start": 29.82,
+        "end": 30.38,
+        "word": " océano",
+        "probability": 0.9373363852500916
+      },
+      {
+        "start": 30.38,
+        "end": 31.22,
+        "word": " parece",
+        "probability": 0.7103936672210693
+      },
+      {
+        "start": 31.22,
+        "end": 31.78,
+        "word": " cobrar",
+        "probability": 0.9863608181476593
+      },
+      {
+        "start": 31.78,
+        "end": 32.08,
+        "word": " vida.",
+        "probability": 0.9968388080596924
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 8,
+    "seek": 2892,
+    "start": 32.78,
+    "end": 39.34,
+    "text": " Una nube en movimiento se extiende sobre el agua, con una longitud de casi siete, dos kilómetros,",
+    "tokens": [
+      50556,
+      15491,
+      297,
+      1977,
+      465,
+      43180,
+      369,
+      1279,
+      45816,
+      5473,
+      806,
+      19330,
+      11,
+      416,
+      2002,
+      39596,
+      368,
+      22567,
+      40719,
+      11,
+      4491,
+      5128,
+      812,
+      29570,
+      11,
+      50922
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 32.78,
+        "end": 32.92,
+        "word": " Una",
+        "probability": 0.9517752528190613
+      },
+      {
+        "start": 32.92,
+        "end": 33.2,
+        "word": " nube",
+        "probability": 0.9906130433082581
+      },
+      {
+        "start": 33.2,
+        "end": 33.4,
+        "word": " en",
+        "probability": 0.9792035818099976
+      },
+      {
+        "start": 33.4,
+        "end": 33.72,
+        "word": " movimiento",
+        "probability": 0.7471784353256226
+      },
+      {
+        "start": 33.72,
+        "end": 34.18,
+        "word": " se",
+        "probability": 0.9842298626899719
+      },
+      {
+        "start": 34.18,
+        "end": 34.7,
+        "word": " extiende",
+        "probability": 0.990916907787323
+      },
+      {
+        "start": 34.7,
+        "end": 35.06,
+        "word": " sobre",
+        "probability": 0.9963672161102295
+      },
+      {
+        "start": 35.06,
+        "end": 35.26,
+        "word": " el",
+        "probability": 0.9972543120384216
+      },
+      {
+        "start": 35.26,
+        "end": 35.52,
+        "word": " agua,",
+        "probability": 0.9980084300041199
+      },
+      {
+        "start": 36.08,
+        "end": 36.28,
+        "word": " con",
+        "probability": 0.9839320182800293
+      },
+      {
+        "start": 36.28,
+        "end": 36.48,
+        "word": " una",
+        "probability": 0.9903880953788757
+      },
+      {
+        "start": 36.48,
+        "end": 36.86,
+        "word": " longitud",
+        "probability": 0.9437668919563293
+      },
+      {
+        "start": 36.86,
+        "end": 37.2,
+        "word": " de",
+        "probability": 0.9965623021125793
+      },
+      {
+        "start": 37.2,
+        "end": 37.4,
+        "word": " casi",
+        "probability": 0.999087929725647
+      },
+      {
+        "start": 37.4,
+        "end": 37.94,
+        "word": " siete,",
+        "probability": 0.35315650701522827
+      },
+      {
+        "start": 38.44,
+        "end": 38.72,
+        "word": " dos",
+        "probability": 0.984584629535675
+      },
+      {
+        "start": 38.72,
+        "end": 39.34,
+        "word": " kilómetros,",
+        "probability": 0.988466481367747
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 9,
+    "seek": 2892,
+    "start": 40.02,
+    "end": 46.16,
+    "text": " casi uno, seis kilómetros de ancho, y alcanzando una profundidad de unos treinta metros.",
+    "tokens": [
+      50922,
+      22567,
+      8526,
+      11,
+      28233,
+      5128,
+      812,
+      29570,
+      368,
+      364,
+      5738,
+      11,
+      288,
+      50200,
+      1806,
+      2002,
+      40958,
+      4580,
+      368,
+      17780,
+      2192,
+      16071,
+      34761,
+      13,
+      51264
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 40.02,
+        "end": 40.28,
+        "word": " casi",
+        "probability": 0.9861621856689453
+      },
+      {
+        "start": 40.28,
+        "end": 40.62,
+        "word": " uno,",
+        "probability": 0.9789870381355286
+      },
+      {
+        "start": 41.34,
+        "end": 41.54,
+        "word": " seis",
+        "probability": 0.9782623052597046
+      },
+      {
+        "start": 41.54,
+        "end": 42.1,
+        "word": " kilómetros",
+        "probability": 0.9965503613154093
+      },
+      {
+        "start": 42.1,
+        "end": 42.36,
+        "word": " de",
+        "probability": 0.9933869242668152
+      },
+      {
+        "start": 42.36,
+        "end": 42.74,
+        "word": " ancho,",
+        "probability": 0.9901963174343109
+      },
+      {
+        "start": 43.28,
+        "end": 43.42,
+        "word": " y",
+        "probability": 0.9902143478393555
+      },
+      {
+        "start": 43.42,
+        "end": 43.98,
+        "word": " alcanzando",
+        "probability": 0.9824208915233612
+      },
+      {
+        "start": 43.98,
+        "end": 44.14,
+        "word": " una",
+        "probability": 0.9968394041061401
+      },
+      {
+        "start": 44.14,
+        "end": 44.78,
+        "word": " profundidad",
+        "probability": 0.998439610004425
+      },
+      {
+        "start": 44.78,
+        "end": 45.04,
+        "word": " de",
+        "probability": 0.9975812435150146
+      },
+      {
+        "start": 45.04,
+        "end": 45.24,
+        "word": " unos",
+        "probability": 0.9988824725151062
+      },
+      {
+        "start": 45.24,
+        "end": 45.76,
+        "word": " treinta",
+        "probability": 0.968801885843277
+      },
+      {
+        "start": 45.76,
+        "end": 46.16,
+        "word": " metros.",
+        "probability": 0.9970302581787109
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 10,
+    "seek": 2892,
+    "start": 46.88,
+    "end": 49.46,
+    "text": " Esta es la carrera de las sardinas.",
+    "tokens": [
+      51264,
+      20547,
+      785,
+      635,
+      15910,
+      1663,
+      368,
+      2439,
+      262,
+      515,
+      17094,
+      13,
+      51430
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 46.88,
+        "end": 47.26,
+        "word": " Esta",
+        "probability": 0.7972336411476135
+      },
+      {
+        "start": 47.26,
+        "end": 48.14,
+        "word": " es",
+        "probability": 0.9065310955047607
+      },
+      {
+        "start": 48.14,
+        "end": 48.3,
+        "word": " la",
+        "probability": 0.9921567440032959
+      },
+      {
+        "start": 48.3,
+        "end": 48.76,
+        "word": " carrera",
+        "probability": 0.9728051126003265
+      },
+      {
+        "start": 48.76,
+        "end": 48.9,
+        "word": " de",
+        "probability": 0.9987188577651978
+      },
+      {
+        "start": 48.9,
+        "end": 49.04,
+        "word": " las",
+        "probability": 0.9871174693107605
+      },
+      {
+        "start": 49.04,
+        "end": 49.46,
+        "word": " sardinas.",
+        "probability": 0.9863047202428182
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 11,
+    "seek": 2892,
+    "start": 50.26,
+    "end": 55.64,
+    "text": " Miles de millones de sardinas recorren la costa cada año, siguiendo los cambios",
+    "tokens": [
+      51430,
+      27384,
+      368,
+      22416,
+      368,
+      262,
+      515,
+      17094,
+      850,
+      284,
+      1095,
+      635,
+      2063,
+      64,
+      8411,
+      15984,
+      11,
+      21152,
+      7304,
+      1750,
+      18751,
+      2717,
+      51702
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 50.26,
+        "end": 50.5,
+        "word": " Miles",
+        "probability": 0.8960108757019043
+      },
+      {
+        "start": 50.5,
+        "end": 50.76,
+        "word": " de",
+        "probability": 0.9988834261894226
+      },
+      {
+        "start": 50.76,
+        "end": 51.08,
+        "word": " millones",
+        "probability": 0.9910790324211121
+      },
+      {
+        "start": 51.08,
+        "end": 51.34,
+        "word": " de",
+        "probability": 0.9982742071151733
+      },
+      {
+        "start": 51.34,
+        "end": 51.9,
+        "word": " sardinas",
+        "probability": 0.9987944761912028
+      },
+      {
+        "start": 51.9,
+        "end": 52.94,
+        "word": " recorren",
+        "probability": 0.9456927378972372
+      },
+      {
+        "start": 52.94,
+        "end": 53.12,
+        "word": " la",
+        "probability": 0.9932965636253357
+      },
+      {
+        "start": 53.12,
+        "end": 53.52,
+        "word": " costa",
+        "probability": 0.9925388991832733
+      },
+      {
+        "start": 53.52,
+        "end": 53.68,
+        "word": " cada",
+        "probability": 0.9245981574058533
+      },
+      {
+        "start": 53.68,
+        "end": 54.14,
+        "word": " año,",
+        "probability": 0.9973401427268982
+      },
+      {
+        "start": 54.48,
+        "end": 54.96,
+        "word": " siguiendo",
+        "probability": 0.9962989687919617
+      },
+      {
+        "start": 54.96,
+        "end": 55.2,
+        "word": " los",
+        "probability": 0.9987717270851135
+      },
+      {
+        "start": 55.2,
+        "end": 55.64,
+        "word": " cambios",
+        "probability": 0.9990957975387573
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 12,
+    "seek": 2892,
+    "start": 55.64,
+    "end": 57.28,
+    "text": " en las condiciones del océano.",
+    "tokens": [
+      51702,
+      465,
+      2439,
+      45960,
+      1103,
+      10409,
+      526,
+      3730,
+      13,
+      51812
+    ],
+    "avg_logprob": -0.15946675660935314,
+    "compression_ratio": 1.6069868995633187,
+    "no_speech_prob": 0.001531904679723084,
+    "words": [
+      {
+        "start": 55.64,
+        "end": 55.84,
+        "word": " en",
+        "probability": 0.9971576929092407
+      },
+      {
+        "start": 55.84,
+        "end": 55.98,
+        "word": " las",
+        "probability": 0.9964930415153503
+      },
+      {
+        "start": 55.98,
+        "end": 56.5,
+        "word": " condiciones",
+        "probability": 0.9869310259819031
+      },
+      {
+        "start": 56.5,
+        "end": 56.82,
+        "word": " del",
+        "probability": 0.9931334853172302
+      },
+      {
+        "start": 56.82,
+        "end": 57.28,
+        "word": " océano.",
+        "probability": 0.9973630905151367
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 13,
+    "seek": 5728,
+    "start": 57.88,
+    "end": 63.68,
+    "text": " Se dirigen hacia aguas ricas en nutrientes, donde el alimento abunda y la supervivencia es posible.",
+    "tokens": [
+      50394,
+      1100,
+      4746,
+      3213,
+      21365,
+      34438,
+      296,
+      367,
+      9150,
+      465,
+      13242,
+      9240,
+      11,
+      10488,
+      806,
+      419,
+      10030,
+      410,
+      11946,
+      288,
+      635,
+      1687,
+      4917,
+      553,
+      2755,
+      785,
+      26644,
+      13,
+      50716
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 57.68000000000001,
+        "end": 58.02,
+        "word": " Se",
+        "probability": 0.5047733783721924
+      },
+      {
+        "start": 58.02,
+        "end": 58.44,
+        "word": " dirigen",
+        "probability": 0.9492440223693848
+      },
+      {
+        "start": 58.44,
+        "end": 58.64,
+        "word": " hacia",
+        "probability": 0.9868056774139404
+      },
+      {
+        "start": 58.64,
+        "end": 58.94,
+        "word": " aguas",
+        "probability": 0.9967333078384399
+      },
+      {
+        "start": 58.94,
+        "end": 59.22,
+        "word": " ricas",
+        "probability": 0.9835131466388702
+      },
+      {
+        "start": 59.22,
+        "end": 59.4,
+        "word": " en",
+        "probability": 0.9958170056343079
+      },
+      {
+        "start": 59.4,
+        "end": 59.98,
+        "word": " nutrientes,",
+        "probability": 0.9935474395751953
+      },
+      {
+        "start": 60.36,
+        "end": 60.6,
+        "word": " donde",
+        "probability": 0.9825008511543274
+      },
+      {
+        "start": 60.6,
+        "end": 60.78,
+        "word": " el",
+        "probability": 0.9951329827308655
+      },
+      {
+        "start": 60.78,
+        "end": 61.12,
+        "word": " alimento",
+        "probability": 0.9963357448577881
+      },
+      {
+        "start": 61.12,
+        "end": 61.64,
+        "word": " abunda",
+        "probability": 0.7365021407604218
+      },
+      {
+        "start": 61.64,
+        "end": 62.08,
+        "word": " y",
+        "probability": 0.9054726362228394
+      },
+      {
+        "start": 62.08,
+        "end": 62.2,
+        "word": " la",
+        "probability": 0.9927119016647339
+      },
+      {
+        "start": 62.2,
+        "end": 63.0,
+        "word": " supervivencia",
+        "probability": 0.9872152358293533
+      },
+      {
+        "start": 63.0,
+        "end": 63.22,
+        "word": " es",
+        "probability": 0.9877290725708008
+      },
+      {
+        "start": 63.22,
+        "end": 63.68,
+        "word": " posible.",
+        "probability": 0.9986516833305359
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 14,
+    "seek": 5728,
+    "start": 64.26,
+    "end": 68.28,
+    "text": " Pero cada pez, por sí solo, está casi indefenso.",
+    "tokens": [
+      50716,
+      9377,
+      8411,
+      520,
+      89,
+      11,
+      1515,
+      8600,
+      6944,
+      11,
+      3192,
+      22567,
+      1016,
+      5666,
+      268,
+      539,
+      13,
+      50940
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 64.26,
+        "end": 64.48,
+        "word": " Pero",
+        "probability": 0.9828643798828125
+      },
+      {
+        "start": 64.48,
+        "end": 64.7,
+        "word": " cada",
+        "probability": 0.9900574088096619
+      },
+      {
+        "start": 64.7,
+        "end": 65.2,
+        "word": " pez,",
+        "probability": 0.9042571783065796
+      },
+      {
+        "start": 65.48,
+        "end": 65.66,
+        "word": " por",
+        "probability": 0.998383641242981
+      },
+      {
+        "start": 65.66,
+        "end": 65.84,
+        "word": " sí",
+        "probability": 0.9509178996086121
+      },
+      {
+        "start": 65.84,
+        "end": 66.16,
+        "word": " solo,",
+        "probability": 0.8476333618164062
+      },
+      {
+        "start": 66.66,
+        "end": 67.0,
+        "word": " está",
+        "probability": 0.989807665348053
+      },
+      {
+        "start": 67.0,
+        "end": 67.5,
+        "word": " casi",
+        "probability": 0.9965521097183228
+      },
+      {
+        "start": 67.5,
+        "end": 68.28,
+        "word": " indefenso.",
+        "probability": 0.9567942917346954
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 15,
+    "seek": 5728,
+    "start": 68.82,
+    "end": 72.42,
+    "text": " Su supervivencia depende de mantenerse unido al grupo.",
+    "tokens": [
+      50940,
+      2746,
+      1687,
+      4917,
+      553,
+      2755,
+      47091,
+      368,
+      42759,
+      405,
+      517,
+      2925,
+      419,
+      20190,
+      13,
+      51152
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 68.82,
+        "end": 68.94,
+        "word": " Su",
+        "probability": 0.986262321472168
+      },
+      {
+        "start": 68.94,
+        "end": 69.8,
+        "word": " supervivencia",
+        "probability": 0.998387798666954
+      },
+      {
+        "start": 69.8,
+        "end": 70.44,
+        "word": " depende",
+        "probability": 0.8803505897521973
+      },
+      {
+        "start": 70.44,
+        "end": 70.78,
+        "word": " de",
+        "probability": 0.9984965324401855
+      },
+      {
+        "start": 70.78,
+        "end": 71.5,
+        "word": " mantenerse",
+        "probability": 0.9987819194793701
+      },
+      {
+        "start": 71.5,
+        "end": 71.92,
+        "word": " unido",
+        "probability": 0.9951039552688599
+      },
+      {
+        "start": 71.92,
+        "end": 72.1,
+        "word": " al",
+        "probability": 0.9960848093032837
+      },
+      {
+        "start": 72.1,
+        "end": 72.42,
+        "word": " grupo.",
+        "probability": 0.9959163069725037
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 16,
+    "seek": 5728,
+    "start": 73.08,
+    "end": 78.84,
+    "text": " Se fusionan en una sola masa en movimiento, donde distinguir un pez entre millones se",
+    "tokens": [
+      51152,
+      1100,
+      23100,
+      282,
+      465,
+      2002,
+      34162,
+      29216,
+      465,
+      43180,
+      11,
+      10488,
+      11365,
+      347,
+      517,
+      520,
+      89,
+      3962,
+      22416,
+      369,
+      51440
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 73.08,
+        "end": 73.22,
+        "word": " Se",
+        "probability": 0.9852797985076904
+      },
+      {
+        "start": 73.22,
+        "end": 73.82,
+        "word": " fusionan",
+        "probability": 0.9744880497455597
+      },
+      {
+        "start": 73.82,
+        "end": 73.96,
+        "word": " en",
+        "probability": 0.9933694005012512
+      },
+      {
+        "start": 73.96,
+        "end": 74.14,
+        "word": " una",
+        "probability": 0.9981082677841187
+      },
+      {
+        "start": 74.14,
+        "end": 74.4,
+        "word": " sola",
+        "probability": 0.9966645836830139
+      },
+      {
+        "start": 74.4,
+        "end": 74.78,
+        "word": " masa",
+        "probability": 0.9957817792892456
+      },
+      {
+        "start": 74.78,
+        "end": 74.98,
+        "word": " en",
+        "probability": 0.9514344334602356
+      },
+      {
+        "start": 74.98,
+        "end": 75.42,
+        "word": " movimiento,",
+        "probability": 0.9943167567253113
+      },
+      {
+        "start": 76.2,
+        "end": 76.46,
+        "word": " donde",
+        "probability": 0.991156816482544
+      },
+      {
+        "start": 76.46,
+        "end": 77.08,
+        "word": " distinguir",
+        "probability": 0.9895994663238525
+      },
+      {
+        "start": 77.08,
+        "end": 77.22,
+        "word": " un",
+        "probability": 0.9957041144371033
+      },
+      {
+        "start": 77.22,
+        "end": 77.54,
+        "word": " pez",
+        "probability": 0.9983904659748077
+      },
+      {
+        "start": 77.54,
+        "end": 77.76,
+        "word": " entre",
+        "probability": 0.9898708462715149
+      },
+      {
+        "start": 77.76,
+        "end": 78.2,
+        "word": " millones",
+        "probability": 0.8966675996780396
+      },
+      {
+        "start": 78.2,
+        "end": 78.84,
+        "word": " se",
+        "probability": 0.9141845107078552
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 17,
+    "seek": 5728,
+    "start": 78.84,
+    "end": 80.3,
+    "text": " vuelve casi imposible.",
+    "tokens": [
+      51440,
+      20126,
+      303,
+      22567,
+      38396,
+      964,
+      13,
+      51542
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 78.84,
+        "end": 79.22,
+        "word": " vuelve",
+        "probability": 0.998887836933136
+      },
+      {
+        "start": 79.22,
+        "end": 79.5,
+        "word": " casi",
+        "probability": 0.9987395405769348
+      },
+      {
+        "start": 79.5,
+        "end": 80.3,
+        "word": " imposible.",
+        "probability": 0.9946167171001434
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 18,
+    "seek": 5728,
+    "start": 80.82,
+    "end": 86.92,
+    "text": " Por un instante, es como si todas las sardinas compartieran el mismo instinto, la misma",
+    "tokens": [
+      51542,
+      5269,
+      517,
+      1058,
+      2879,
+      11,
+      785,
+      2617,
+      1511,
+      10906,
+      2439,
+      262,
+      515,
+      17094,
+      18113,
+      38516,
+      806,
+      12461,
+      1058,
+      17246,
+      11,
+      635,
+      24946,
+      51850
+    ],
+    "avg_logprob": -0.12040991007776583,
+    "compression_ratio": 1.6341463414634145,
+    "no_speech_prob": 0.00084740633610636,
+    "words": [
+      {
+        "start": 80.82,
+        "end": 81.02,
+        "word": " Por",
+        "probability": 0.9894519448280334
+      },
+      {
+        "start": 81.02,
+        "end": 81.14,
+        "word": " un",
+        "probability": 0.9975783228874207
+      },
+      {
+        "start": 81.14,
+        "end": 81.78,
+        "word": " instante,",
+        "probability": 0.9978919625282288
+      },
+      {
+        "start": 82.16,
+        "end": 82.4,
+        "word": " es",
+        "probability": 0.9953455328941345
+      },
+      {
+        "start": 82.4,
+        "end": 82.6,
+        "word": " como",
+        "probability": 0.9980893731117249
+      },
+      {
+        "start": 82.6,
+        "end": 82.78,
+        "word": " si",
+        "probability": 0.9990777969360352
+      },
+      {
+        "start": 82.78,
+        "end": 83.06,
+        "word": " todas",
+        "probability": 0.9951019287109375
+      },
+      {
+        "start": 83.06,
+        "end": 83.36,
+        "word": " las",
+        "probability": 0.9959548711776733
+      },
+      {
+        "start": 83.36,
+        "end": 83.94,
+        "word": " sardinas",
+        "probability": 0.9958942532539368
+      },
+      {
+        "start": 83.94,
+        "end": 84.78,
+        "word": " compartieran",
+        "probability": 0.9903066754341125
+      },
+      {
+        "start": 84.78,
+        "end": 84.98,
+        "word": " el",
+        "probability": 0.9977728724479675
+      },
+      {
+        "start": 84.98,
+        "end": 85.36,
+        "word": " mismo",
+        "probability": 0.9906817674636841
+      },
+      {
+        "start": 85.36,
+        "end": 86.08,
+        "word": " instinto,",
+        "probability": 0.9884859919548035
+      },
+      {
+        "start": 86.54,
+        "end": 86.64,
+        "word": " la",
+        "probability": 0.9959293007850647
+      },
+      {
+        "start": 86.64,
+        "end": 86.92,
+        "word": " misma",
+        "probability": 0.9985587000846863
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 19,
+    "seek": 8692,
+    "start": 86.92,
+    "end": 89.08,
+    "text": " decisión, la misma mente.",
+    "tokens": [
+      50366,
+      18206,
+      2560,
+      11,
+      635,
+      24946,
+      26577,
+      13,
+      50498
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 86.92,
+        "end": 87.66,
+        "word": " decisión,",
+        "probability": 0.7214156091213226
+      },
+      {
+        "start": 88.0,
+        "end": 88.24,
+        "word": " la",
+        "probability": 0.9918551445007324
+      },
+      {
+        "start": 88.24,
+        "end": 88.56,
+        "word": " misma",
+        "probability": 0.6078165173530579
+      },
+      {
+        "start": 88.56,
+        "end": 89.08,
+        "word": " mente.",
+        "probability": 0.9812964797019958
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 20,
+    "seek": 8692,
+    "start": 89.56,
+    "end": 93.8,
+    "text": " Pero incluso, la defensa colectiva más fuerte puede romperse.",
+    "tokens": [
+      50498,
+      9377,
+      24018,
+      11,
+      635,
+      1060,
+      23364,
+      598,
+      1809,
+      5931,
+      3573,
+      37129,
+      8919,
+      7438,
+      610,
+      405,
+      13,
+      50734
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 89.56,
+        "end": 89.76,
+        "word": " Pero",
+        "probability": 0.9720231294631958
+      },
+      {
+        "start": 89.76,
+        "end": 90.16,
+        "word": " incluso,",
+        "probability": 0.6131880283355713
+      },
+      {
+        "start": 90.66,
+        "end": 90.78,
+        "word": " la",
+        "probability": 0.9954675436019897
+      },
+      {
+        "start": 90.78,
+        "end": 91.18,
+        "word": " defensa",
+        "probability": 0.9914382994174957
+      },
+      {
+        "start": 91.18,
+        "end": 91.8,
+        "word": " colectiva",
+        "probability": 0.992974579334259
+      },
+      {
+        "start": 91.8,
+        "end": 92.14,
+        "word": " más",
+        "probability": 0.9517858028411865
+      },
+      {
+        "start": 92.14,
+        "end": 92.62,
+        "word": " fuerte",
+        "probability": 0.9935765862464905
+      },
+      {
+        "start": 92.62,
+        "end": 93.04,
+        "word": " puede",
+        "probability": 0.9695205688476562
+      },
+      {
+        "start": 93.04,
+        "end": 93.8,
+        "word": " romperse.",
+        "probability": 0.9942803382873535
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 21,
+    "seek": 8692,
+    "start": 94.3,
+    "end": 98.5,
+    "text": " Un cambio repentino se propaga por el interminable río de plata.",
+    "tokens": [
+      50734,
+      1156,
+      28731,
+      19994,
+      2982,
+      369,
+      2365,
+      9286,
+      1515,
+      806,
+      728,
+      2367,
+      712,
+      367,
+      20492,
+      368,
+      30780,
+      13,
+      50976
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 94.3,
+        "end": 94.5,
+        "word": " Un",
+        "probability": 0.9813569784164429
+      },
+      {
+        "start": 94.5,
+        "end": 94.88,
+        "word": " cambio",
+        "probability": 0.9896494150161743
+      },
+      {
+        "start": 94.88,
+        "end": 95.64,
+        "word": " repentino",
+        "probability": 0.9880876839160919
+      },
+      {
+        "start": 95.64,
+        "end": 96.24,
+        "word": " se",
+        "probability": 0.5952973961830139
+      },
+      {
+        "start": 96.24,
+        "end": 96.66,
+        "word": " propaga",
+        "probability": 0.9863438606262207
+      },
+      {
+        "start": 96.66,
+        "end": 96.9,
+        "word": " por",
+        "probability": 0.9942703247070312
+      },
+      {
+        "start": 96.9,
+        "end": 97.02,
+        "word": " el",
+        "probability": 0.997079610824585
+      },
+      {
+        "start": 97.02,
+        "end": 97.66,
+        "word": " interminable",
+        "probability": 0.9895763993263245
+      },
+      {
+        "start": 97.66,
+        "end": 98.04,
+        "word": " río",
+        "probability": 0.8479616343975067
+      },
+      {
+        "start": 98.04,
+        "end": 98.18,
+        "word": " de",
+        "probability": 0.9975825548171997
+      },
+      {
+        "start": 98.18,
+        "end": 98.5,
+        "word": " plata.",
+        "probability": 0.6951965689659119
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 22,
+    "seek": 8692,
+    "start": 99.22,
+    "end": 102.5,
+    "text": " Delfines comunes, a pesar de su nombre común.",
+    "tokens": [
+      50976,
+      5831,
+      69,
+      1652,
+      11040,
+      279,
+      11,
+      257,
+      41951,
+      368,
+      459,
+      13000,
+      45448,
+      13,
+      51172
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 99.22,
+        "end": 99.72,
+        "word": " Delfines",
+        "probability": 0.8509054780006409
+      },
+      {
+        "start": 99.72,
+        "end": 100.6,
+        "word": " comunes,",
+        "probability": 0.7603859901428223
+      },
+      {
+        "start": 101.02,
+        "end": 101.18,
+        "word": " a",
+        "probability": 0.9731091856956482
+      },
+      {
+        "start": 101.18,
+        "end": 101.42,
+        "word": " pesar",
+        "probability": 0.9995724558830261
+      },
+      {
+        "start": 101.42,
+        "end": 101.62,
+        "word": " de",
+        "probability": 0.9994884729385376
+      },
+      {
+        "start": 101.62,
+        "end": 101.78,
+        "word": " su",
+        "probability": 0.9964183568954468
+      },
+      {
+        "start": 101.78,
+        "end": 102.08,
+        "word": " nombre",
+        "probability": 0.9989895224571228
+      },
+      {
+        "start": 102.08,
+        "end": 102.5,
+        "word": " común.",
+        "probability": 0.9864867925643921
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 23,
+    "seek": 8692,
+    "start": 103.1,
+    "end": 107.72,
+    "text": " En otro tiempo fueron unos de los mamíferos marinos más abundantes de la Tierra.",
+    "tokens": [
+      51172,
+      2193,
+      11921,
+      11772,
+      28739,
+      17780,
+      368,
+      1750,
+      13524,
+      870,
+      612,
+      329,
+      1849,
+      15220,
+      3573,
+      14809,
+      9327,
+      368,
+      635,
+      314,
+      17452,
+      13,
+      51434
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 103.1,
+        "end": 103.22,
+        "word": " En",
+        "probability": 0.9976937174797058
+      },
+      {
+        "start": 103.22,
+        "end": 103.4,
+        "word": " otro",
+        "probability": 0.9962815642356873
+      },
+      {
+        "start": 103.4,
+        "end": 103.82,
+        "word": " tiempo",
+        "probability": 0.9985278844833374
+      },
+      {
+        "start": 103.82,
+        "end": 104.5,
+        "word": " fueron",
+        "probability": 0.4758298397064209
+      },
+      {
+        "start": 104.5,
+        "end": 104.84,
+        "word": " unos",
+        "probability": 0.9804423451423645
+      },
+      {
+        "start": 104.84,
+        "end": 105.04,
+        "word": " de",
+        "probability": 0.9975735545158386
+      },
+      {
+        "start": 105.04,
+        "end": 105.16,
+        "word": " los",
+        "probability": 0.9981467723846436
+      },
+      {
+        "start": 105.16,
+        "end": 105.74,
+        "word": " mamíferos",
+        "probability": 0.9932861328125
+      },
+      {
+        "start": 105.74,
+        "end": 106.16,
+        "word": " marinos",
+        "probability": 0.9799688756465912
+      },
+      {
+        "start": 106.16,
+        "end": 106.42,
+        "word": " más",
+        "probability": 0.9904013276100159
+      },
+      {
+        "start": 106.42,
+        "end": 107.1,
+        "word": " abundantes",
+        "probability": 0.9893147349357605
+      },
+      {
+        "start": 107.1,
+        "end": 107.28,
+        "word": " de",
+        "probability": 0.996823787689209
+      },
+      {
+        "start": 107.28,
+        "end": 107.38,
+        "word": " la",
+        "probability": 0.995305061340332
+      },
+      {
+        "start": 107.38,
+        "end": 107.72,
+        "word": " Tierra.",
+        "probability": 0.6840439438819885
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 24,
+    "seek": 8692,
+    "start": 108.34,
+    "end": 111.98,
+    "text": " Pocos de predadores dominan la cooperación mejor que ellos.",
+    "tokens": [
+      51434,
+      430,
+      905,
+      329,
+      368,
+      3852,
+      11856,
+      8859,
+      282,
+      635,
+      13414,
+      3482,
+      11479,
+      631,
+      16353,
+      13,
+      51652
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 108.34,
+        "end": 108.68,
+        "word": " Pocos",
+        "probability": 0.9597040216128031
+      },
+      {
+        "start": 108.68,
+        "end": 108.82,
+        "word": " de",
+        "probability": 0.672666609287262
+      },
+      {
+        "start": 108.82,
+        "end": 109.34,
+        "word": " predadores",
+        "probability": 0.9576757848262787
+      },
+      {
+        "start": 109.34,
+        "end": 110.26,
+        "word": " dominan",
+        "probability": 0.972042977809906
+      },
+      {
+        "start": 110.26,
+        "end": 110.42,
+        "word": " la",
+        "probability": 0.9988251328468323
+      },
+      {
+        "start": 110.42,
+        "end": 111.06,
+        "word": " cooperación",
+        "probability": 0.9949420392513275
+      },
+      {
+        "start": 111.06,
+        "end": 111.44,
+        "word": " mejor",
+        "probability": 0.9843027591705322
+      },
+      {
+        "start": 111.44,
+        "end": 111.68,
+        "word": " que",
+        "probability": 0.9964718818664551
+      },
+      {
+        "start": 111.68,
+        "end": 111.98,
+        "word": " ellos.",
+        "probability": 0.9975430965423584
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 25,
+    "seek": 8692,
+    "start": 112.7,
+    "end": 115.54,
+    "text": " Cada delfín posee un silbido característico único.",
+    "tokens": [
+      51652,
+      38603,
+      1103,
+      69,
+      10973,
+      10774,
+      68,
+      517,
+      3425,
+      65,
+      2925,
+      34297,
+      2789,
+      26113,
+      13,
+      51824
+    ],
+    "avg_logprob": -0.1518684846012532,
+    "compression_ratio": 1.5325670498084292,
+    "no_speech_prob": 0.0017540516564622521,
+    "words": [
+      {
+        "start": 112.7,
+        "end": 112.86,
+        "word": " Cada",
+        "probability": 0.993552565574646
+      },
+      {
+        "start": 112.86,
+        "end": 113.32,
+        "word": " delfín",
+        "probability": 0.9351244568824768
+      },
+      {
+        "start": 113.32,
+        "end": 113.8,
+        "word": " posee",
+        "probability": 0.9967837333679199
+      },
+      {
+        "start": 113.8,
+        "end": 113.94,
+        "word": " un",
+        "probability": 0.9991463422775269
+      },
+      {
+        "start": 113.94,
+        "end": 114.36,
+        "word": " silbido",
+        "probability": 0.9658878842989603
+      },
+      {
+        "start": 114.36,
+        "end": 115.2,
+        "word": " característico",
+        "probability": 0.9948607981204987
+      },
+      {
+        "start": 115.2,
+        "end": 115.54,
+        "word": " único.",
+        "probability": 0.9920344948768616
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 26,
+    "seek": 11554,
+    "start": 116.10000000000001,
+    "end": 118.9,
+    "text": " Un nombre diferente al de cualquier otro miembro del grupo.",
+    "tokens": [
+      50392,
+      1156,
+      13000,
+      20973,
+      419,
+      368,
+      21004,
+      11921,
+      12597,
+      2504,
+      340,
+      1103,
+      20190,
+      13,
+      50562
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 115.83999999999999,
+        "end": 116.24,
+        "word": " Un",
+        "probability": 0.10117366164922714
+      },
+      {
+        "start": 116.24,
+        "end": 116.54,
+        "word": " nombre",
+        "probability": 0.5172306895256042
+      },
+      {
+        "start": 116.54,
+        "end": 116.94,
+        "word": " diferente",
+        "probability": 0.9869842529296875
+      },
+      {
+        "start": 116.94,
+        "end": 117.22,
+        "word": " al",
+        "probability": 0.9804580807685852
+      },
+      {
+        "start": 117.22,
+        "end": 117.34,
+        "word": " de",
+        "probability": 0.9922037124633789
+      },
+      {
+        "start": 117.34,
+        "end": 117.64,
+        "word": " cualquier",
+        "probability": 0.9877901077270508
+      },
+      {
+        "start": 117.64,
+        "end": 117.94,
+        "word": " otro",
+        "probability": 0.9774121046066284
+      },
+      {
+        "start": 117.94,
+        "end": 118.44,
+        "word": " miembro",
+        "probability": 0.9750250776608785
+      },
+      {
+        "start": 118.44,
+        "end": 118.62,
+        "word": " del",
+        "probability": 0.9805634021759033
+      },
+      {
+        "start": 118.62,
+        "end": 118.9,
+        "word": " grupo.",
+        "probability": 0.9895187020301819
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 27,
+    "seek": 11554,
+    "start": 119.44,
+    "end": 124.34,
+    "text": " Incluso mientras duermen, solo una mitad de su cerebro descansa a la vez.",
+    "tokens": [
+      50562,
+      7779,
+      3063,
+      78,
+      26010,
+      1581,
+      966,
+      268,
+      11,
+      6944,
+      2002,
+      46895,
+      368,
+      459,
+      11643,
+      9120,
+      7471,
+      38734,
+      257,
+      635,
+      5715,
+      13,
+      50830
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 119.44,
+        "end": 119.98,
+        "word": " Incluso",
+        "probability": 0.9860158960024515
+      },
+      {
+        "start": 119.98,
+        "end": 120.3,
+        "word": " mientras",
+        "probability": 0.9842919111251831
+      },
+      {
+        "start": 120.3,
+        "end": 120.9,
+        "word": " duermen,",
+        "probability": 0.9729871153831482
+      },
+      {
+        "start": 121.4,
+        "end": 121.72,
+        "word": " solo",
+        "probability": 0.519870936870575
+      },
+      {
+        "start": 121.72,
+        "end": 122.0,
+        "word": " una",
+        "probability": 0.9945417046546936
+      },
+      {
+        "start": 122.0,
+        "end": 122.26,
+        "word": " mitad",
+        "probability": 0.9950239658355713
+      },
+      {
+        "start": 122.26,
+        "end": 122.52,
+        "word": " de",
+        "probability": 0.9983617663383484
+      },
+      {
+        "start": 122.52,
+        "end": 122.66,
+        "word": " su",
+        "probability": 0.9960634112358093
+      },
+      {
+        "start": 122.66,
+        "end": 123.12,
+        "word": " cerebro",
+        "probability": 0.9969937801361084
+      },
+      {
+        "start": 123.12,
+        "end": 123.82,
+        "word": " descansa",
+        "probability": 0.9539028108119965
+      },
+      {
+        "start": 123.82,
+        "end": 124.02,
+        "word": " a",
+        "probability": 0.8557157516479492
+      },
+      {
+        "start": 124.02,
+        "end": 124.02,
+        "word": " la",
+        "probability": 0.9968475699424744
+      },
+      {
+        "start": 124.02,
+        "end": 124.34,
+        "word": " vez.",
+        "probability": 0.998372495174408
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 28,
+    "seek": 11554,
+    "start": 124.86,
+    "end": 131.42,
+    "text": " La otra permanece alerta, lo que les permite respirar, orientarse y mantenerse conectados",
+    "tokens": [
+      50830,
+      2369,
+      13623,
+      8105,
+      68,
+      384,
+      9615,
+      64,
+      11,
+      450,
+      631,
+      1512,
+      31105,
+      18412,
+      289,
+      11,
+      8579,
+      11668,
+      288,
+      42759,
+      405,
+      30458,
+      4181,
+      51160
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 124.86,
+        "end": 125.06,
+        "word": " La",
+        "probability": 0.9940829873085022
+      },
+      {
+        "start": 125.06,
+        "end": 125.26,
+        "word": " otra",
+        "probability": 0.9957082271575928
+      },
+      {
+        "start": 125.26,
+        "end": 125.82,
+        "word": " permanece",
+        "probability": 0.9968070387840271
+      },
+      {
+        "start": 125.82,
+        "end": 126.42,
+        "word": " alerta,",
+        "probability": 0.9778930842876434
+      },
+      {
+        "start": 126.86,
+        "end": 126.96,
+        "word": " lo",
+        "probability": 0.9949030876159668
+      },
+      {
+        "start": 126.96,
+        "end": 127.04,
+        "word": " que",
+        "probability": 0.9993977546691895
+      },
+      {
+        "start": 127.04,
+        "end": 127.18,
+        "word": " les",
+        "probability": 0.983857274055481
+      },
+      {
+        "start": 127.18,
+        "end": 127.6,
+        "word": " permite",
+        "probability": 0.9887124300003052
+      },
+      {
+        "start": 127.6,
+        "end": 128.42,
+        "word": " respirar,",
+        "probability": 0.994626373052597
+      },
+      {
+        "start": 128.74,
+        "end": 129.48,
+        "word": " orientarse",
+        "probability": 0.9896270334720612
+      },
+      {
+        "start": 129.48,
+        "end": 130.12,
+        "word": " y",
+        "probability": 0.5783825516700745
+      },
+      {
+        "start": 130.12,
+        "end": 130.8,
+        "word": " mantenerse",
+        "probability": 0.9975264966487885
+      },
+      {
+        "start": 130.8,
+        "end": 131.42,
+        "word": " conectados",
+        "probability": 0.993291437625885
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 29,
+    "seek": 11554,
+    "start": 131.42,
+    "end": 135.5,
+    "text": " con el grupo sin perder nunca por completo la conciencia.",
+    "tokens": [
+      51160,
+      416,
+      806,
+      20190,
+      3343,
+      26971,
+      13768,
+      1515,
+      40135,
+      635,
+      416,
+      537,
+      10974,
+      13,
+      51398
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 131.42,
+        "end": 131.62,
+        "word": " con",
+        "probability": 0.9983592629432678
+      },
+      {
+        "start": 131.62,
+        "end": 131.8,
+        "word": " el",
+        "probability": 0.9970560073852539
+      },
+      {
+        "start": 131.8,
+        "end": 132.14,
+        "word": " grupo",
+        "probability": 0.9988178610801697
+      },
+      {
+        "start": 132.14,
+        "end": 132.76,
+        "word": " sin",
+        "probability": 0.6181992888450623
+      },
+      {
+        "start": 132.76,
+        "end": 133.18,
+        "word": " perder",
+        "probability": 0.9976385831832886
+      },
+      {
+        "start": 133.18,
+        "end": 133.64,
+        "word": " nunca",
+        "probability": 0.9793140292167664
+      },
+      {
+        "start": 133.64,
+        "end": 133.96,
+        "word": " por",
+        "probability": 0.865818202495575
+      },
+      {
+        "start": 133.96,
+        "end": 134.5,
+        "word": " completo",
+        "probability": 0.999229907989502
+      },
+      {
+        "start": 134.5,
+        "end": 134.72,
+        "word": " la",
+        "probability": 0.9962122440338135
+      },
+      {
+        "start": 134.72,
+        "end": 135.5,
+        "word": " conciencia.",
+        "probability": 0.9906400044759115
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 30,
+    "seek": 11554,
+    "start": 136.18,
+    "end": 142.3,
+    "text": " Esa vigilancia constante, combinada con velocidades de casi 60 kilómetros por hora, los",
+    "tokens": [
+      51398,
+      2313,
+      64,
+      15366,
+      21752,
+      2755,
+      47343,
+      11,
+      38514,
+      1538,
+      416,
+      7806,
+      10284,
+      368,
+      22567,
+      4060,
+      5128,
+      812,
+      29570,
+      1515,
+      15098,
+      11,
+      1750,
+      51704
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 136.18,
+        "end": 136.52,
+        "word": " Esa",
+        "probability": 0.988200843334198
+      },
+      {
+        "start": 136.52,
+        "end": 137.1,
+        "word": " vigilancia",
+        "probability": 0.977295974890391
+      },
+      {
+        "start": 137.1,
+        "end": 137.72,
+        "word": " constante,",
+        "probability": 0.9931324124336243
+      },
+      {
+        "start": 138.16,
+        "end": 138.7,
+        "word": " combinada",
+        "probability": 0.9983384907245636
+      },
+      {
+        "start": 138.7,
+        "end": 138.92,
+        "word": " con",
+        "probability": 0.9968847632408142
+      },
+      {
+        "start": 138.92,
+        "end": 139.5,
+        "word": " velocidades",
+        "probability": 0.9944063425064087
+      },
+      {
+        "start": 139.5,
+        "end": 139.74,
+        "word": " de",
+        "probability": 0.9979426264762878
+      },
+      {
+        "start": 139.74,
+        "end": 139.94,
+        "word": " casi",
+        "probability": 0.9992635846138
+      },
+      {
+        "start": 139.94,
+        "end": 140.34,
+        "word": " 60",
+        "probability": 0.7232062220573425
+      },
+      {
+        "start": 140.34,
+        "end": 141.08,
+        "word": " kilómetros",
+        "probability": 0.8302937150001526
+      },
+      {
+        "start": 141.08,
+        "end": 141.46,
+        "word": " por",
+        "probability": 0.9860728979110718
+      },
+      {
+        "start": 141.46,
+        "end": 141.68,
+        "word": " hora,",
+        "probability": 0.9979990124702454
+      },
+      {
+        "start": 142.18,
+        "end": 142.3,
+        "word": " los",
+        "probability": 0.9795820713043213
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 31,
+    "seek": 11554,
+    "start": 142.3,
+    "end": 144.22,
+    "text": " convierte en formidables cazadores.",
+    "tokens": [
+      51704,
+      3754,
+      23123,
+      465,
+      1254,
+      327,
+      2965,
+      269,
+      921,
+      11856,
+      13,
+      51836
+    ],
+    "avg_logprob": -0.12784868141879205,
+    "compression_ratio": 1.573643410852713,
+    "no_speech_prob": 0.018310420215129852,
+    "words": [
+      {
+        "start": 142.3,
+        "end": 142.78,
+        "word": " convierte",
+        "probability": 0.968712717294693
+      },
+      {
+        "start": 142.78,
+        "end": 143.02,
+        "word": " en",
+        "probability": 0.9744851589202881
+      },
+      {
+        "start": 143.02,
+        "end": 143.62,
+        "word": " formidables",
+        "probability": 0.7641395032405853
+      },
+      {
+        "start": 143.62,
+        "end": 144.22,
+        "word": " cazadores.",
+        "probability": 0.9944725036621094
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 32,
+    "seek": 14422,
+    "start": 144.98,
+    "end": 148.18,
+    "text": " Pero la velocidad por sí sola no basta para esta caza.",
+    "tokens": [
+      50402,
+      9377,
+      635,
+      50143,
+      1515,
+      8600,
+      34162,
+      572,
+      45282,
+      1690,
+      5283,
+      269,
+      12257,
+      13,
+      50590
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 144.82,
+        "end": 145.12,
+        "word": " Pero",
+        "probability": 0.23177237808704376
+      },
+      {
+        "start": 145.12,
+        "end": 145.28,
+        "word": " la",
+        "probability": 0.9777218699455261
+      },
+      {
+        "start": 145.28,
+        "end": 145.66,
+        "word": " velocidad",
+        "probability": 0.9822311997413635
+      },
+      {
+        "start": 145.66,
+        "end": 145.94,
+        "word": " por",
+        "probability": 0.9402337074279785
+      },
+      {
+        "start": 145.94,
+        "end": 146.12,
+        "word": " sí",
+        "probability": 0.9282252192497253
+      },
+      {
+        "start": 146.12,
+        "end": 146.42,
+        "word": " sola",
+        "probability": 0.9966121315956116
+      },
+      {
+        "start": 146.42,
+        "end": 147.0,
+        "word": " no",
+        "probability": 0.9423221349716187
+      },
+      {
+        "start": 147.0,
+        "end": 147.28,
+        "word": " basta",
+        "probability": 0.9556194543838501
+      },
+      {
+        "start": 147.28,
+        "end": 147.58,
+        "word": " para",
+        "probability": 0.996885359287262
+      },
+      {
+        "start": 147.58,
+        "end": 147.84,
+        "word": " esta",
+        "probability": 0.9624840021133423
+      },
+      {
+        "start": 147.84,
+        "end": 148.18,
+        "word": " caza.",
+        "probability": 0.9778929650783539
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 33,
+    "seek": 14422,
+    "start": 148.82,
+    "end": 152.04,
+    "text": " La comunicación es la clave.",
+    "tokens": [
+      50590,
+      2369,
+      31710,
+      3482,
+      785,
+      635,
+      596,
+      946,
+      13,
+      50780
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 148.82,
+        "end": 148.96,
+        "word": " La",
+        "probability": 0.9385535717010498
+      },
+      {
+        "start": 148.96,
+        "end": 149.76,
+        "word": " comunicación",
+        "probability": 0.9861599206924438
+      },
+      {
+        "start": 149.76,
+        "end": 150.82,
+        "word": " es",
+        "probability": 0.49991780519485474
+      },
+      {
+        "start": 150.82,
+        "end": 151.68,
+        "word": " la",
+        "probability": 0.9114524126052856
+      },
+      {
+        "start": 151.68,
+        "end": 152.04,
+        "word": " clave.",
+        "probability": 0.9970703125
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 34,
+    "seek": 14422,
+    "start": 152.54,
+    "end": 158.34,
+    "text": " Sin un comandante, el grupo se mueve casi como si estuviera guiado por una únicamente compartida.",
+    "tokens": [
+      50780,
+      11187,
+      517,
+      395,
+      474,
+      2879,
+      11,
+      806,
+      20190,
+      369,
+      49532,
+      303,
+      22567,
+      2617,
+      1511,
+      49777,
+      10609,
+      695,
+      72,
+      1573,
+      1515,
+      2002,
+      6991,
+      7692,
+      3439,
+      18113,
+      2887,
+      13,
+      51096
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 152.54,
+        "end": 152.78,
+        "word": " Sin",
+        "probability": 0.9736986756324768
+      },
+      {
+        "start": 152.78,
+        "end": 152.94,
+        "word": " un",
+        "probability": 0.9971752166748047
+      },
+      {
+        "start": 152.94,
+        "end": 153.64,
+        "word": " comandante,",
+        "probability": 0.9958475629488627
+      },
+      {
+        "start": 154.06,
+        "end": 154.3,
+        "word": " el",
+        "probability": 0.9868962168693542
+      },
+      {
+        "start": 154.3,
+        "end": 154.54,
+        "word": " grupo",
+        "probability": 0.994195818901062
+      },
+      {
+        "start": 154.54,
+        "end": 154.78,
+        "word": " se",
+        "probability": 0.9984523057937622
+      },
+      {
+        "start": 154.78,
+        "end": 155.02,
+        "word": " mueve",
+        "probability": 0.9986100792884827
+      },
+      {
+        "start": 155.02,
+        "end": 155.2,
+        "word": " casi",
+        "probability": 0.9917159676551819
+      },
+      {
+        "start": 155.2,
+        "end": 155.52,
+        "word": " como",
+        "probability": 0.9953077435493469
+      },
+      {
+        "start": 155.52,
+        "end": 155.7,
+        "word": " si",
+        "probability": 0.9989296793937683
+      },
+      {
+        "start": 155.7,
+        "end": 156.12,
+        "word": " estuviera",
+        "probability": 0.9944943785667419
+      },
+      {
+        "start": 156.12,
+        "end": 156.54,
+        "word": " guiado",
+        "probability": 0.9925523598988851
+      },
+      {
+        "start": 156.54,
+        "end": 156.78,
+        "word": " por",
+        "probability": 0.9939508438110352
+      },
+      {
+        "start": 156.78,
+        "end": 156.94,
+        "word": " una",
+        "probability": 0.9944274425506592
+      },
+      {
+        "start": 156.94,
+        "end": 157.64,
+        "word": " únicamente",
+        "probability": 0.9962585767110189
+      },
+      {
+        "start": 157.64,
+        "end": 158.34,
+        "word": " compartida.",
+        "probability": 0.9986799955368042
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 35,
+    "seek": 14422,
+    "start": 158.96,
+    "end": 162.04,
+    "text": " Las sardinas dispersas ya no tienen a dónde escapar.",
+    "tokens": [
+      51096,
+      10663,
+      262,
+      515,
+      17094,
+      24631,
+      296,
+      2478,
+      572,
+      12536,
+      257,
+      34264,
+      12663,
+      2181,
+      13,
+      51282
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 158.96,
+        "end": 159.1,
+        "word": " Las",
+        "probability": 0.909949004650116
+      },
+      {
+        "start": 159.1,
+        "end": 159.5,
+        "word": " sardinas",
+        "probability": 0.9558359185854594
+      },
+      {
+        "start": 159.5,
+        "end": 160.3,
+        "word": " dispersas",
+        "probability": 0.9966102242469788
+      },
+      {
+        "start": 160.3,
+        "end": 160.52,
+        "word": " ya",
+        "probability": 0.9815701842308044
+      },
+      {
+        "start": 160.52,
+        "end": 160.68,
+        "word": " no",
+        "probability": 0.9986425042152405
+      },
+      {
+        "start": 160.68,
+        "end": 160.94,
+        "word": " tienen",
+        "probability": 0.9941307902336121
+      },
+      {
+        "start": 160.94,
+        "end": 161.18,
+        "word": " a",
+        "probability": 0.9078671336174011
+      },
+      {
+        "start": 161.18,
+        "end": 161.38,
+        "word": " dónde",
+        "probability": 0.9179097414016724
+      },
+      {
+        "start": 161.38,
+        "end": 162.04,
+        "word": " escapar.",
+        "probability": 0.9970840215682983
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 36,
+    "seek": 14422,
+    "start": 162.66,
+    "end": 165.96,
+    "text": " Las vías de escape desaparecen una tras otra.",
+    "tokens": [
+      51282,
+      10663,
+      6153,
+      296,
+      368,
+      7615,
+      42316,
+      13037,
+      2002,
+      22507,
+      13623,
+      13,
+      51482
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 162.66,
+        "end": 162.82,
+        "word": " Las",
+        "probability": 0.9894899725914001
+      },
+      {
+        "start": 162.82,
+        "end": 163.12,
+        "word": " vías",
+        "probability": 0.9638233780860901
+      },
+      {
+        "start": 163.12,
+        "end": 163.28,
+        "word": " de",
+        "probability": 0.9973644614219666
+      },
+      {
+        "start": 163.28,
+        "end": 163.68,
+        "word": " escape",
+        "probability": 0.9452846050262451
+      },
+      {
+        "start": 163.68,
+        "end": 164.96,
+        "word": " desaparecen",
+        "probability": 0.9732271134853363
+      },
+      {
+        "start": 164.96,
+        "end": 165.34,
+        "word": " una",
+        "probability": 0.9694508910179138
+      },
+      {
+        "start": 165.34,
+        "end": 165.62,
+        "word": " tras",
+        "probability": 0.9919541478157043
+      },
+      {
+        "start": 165.62,
+        "end": 165.96,
+        "word": " otra.",
+        "probability": 0.994975209236145
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 37,
+    "seek": 14422,
+    "start": 166.62,
+    "end": 172.44,
+    "text": " El círculo se estrecha hasta que miles de peces quedan comprimidos en una esfera",
+    "tokens": [
+      51482,
+      2699,
+      269,
+      31338,
+      25436,
+      369,
+      36665,
+      4413,
+      10764,
+      631,
+      6193,
+      368,
+      520,
+      887,
+      13617,
+      282,
+      715,
+      5565,
+      7895,
+      465,
+      2002,
+      785,
+      45635,
+      51776
+    ],
+    "avg_logprob": -0.11935457067752103,
+    "compression_ratio": 1.5683760683760684,
+    "no_speech_prob": 0.0017157172551378608,
+    "words": [
+      {
+        "start": 166.62,
+        "end": 166.8,
+        "word": " El",
+        "probability": 0.9906216859817505
+      },
+      {
+        "start": 166.8,
+        "end": 167.26,
+        "word": " círculo",
+        "probability": 0.9831303358078003
+      },
+      {
+        "start": 167.26,
+        "end": 167.5,
+        "word": " se",
+        "probability": 0.963088870048523
+      },
+      {
+        "start": 167.5,
+        "end": 168.08,
+        "word": " estrecha",
+        "probability": 0.9975728392601013
+      },
+      {
+        "start": 168.08,
+        "end": 168.84,
+        "word": " hasta",
+        "probability": 0.4513128995895386
+      },
+      {
+        "start": 168.84,
+        "end": 169.06,
+        "word": " que",
+        "probability": 0.9981951117515564
+      },
+      {
+        "start": 169.06,
+        "end": 169.34,
+        "word": " miles",
+        "probability": 0.9911275506019592
+      },
+      {
+        "start": 169.34,
+        "end": 169.62,
+        "word": " de",
+        "probability": 0.9992005228996277
+      },
+      {
+        "start": 169.62,
+        "end": 170.14,
+        "word": " peces",
+        "probability": 0.9972963631153107
+      },
+      {
+        "start": 170.14,
+        "end": 170.94,
+        "word": " quedan",
+        "probability": 0.98809614777565
+      },
+      {
+        "start": 170.94,
+        "end": 171.66,
+        "word": " comprimidos",
+        "probability": 0.9929993947347006
+      },
+      {
+        "start": 171.66,
+        "end": 171.9,
+        "word": " en",
+        "probability": 0.9979713559150696
+      },
+      {
+        "start": 171.9,
+        "end": 172.06,
+        "word": " una",
+        "probability": 0.9988030195236206
+      },
+      {
+        "start": 172.06,
+        "end": 172.44,
+        "word": " esfera",
+        "probability": 0.9857331216335297
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 38,
+    "seek": 17244,
+    "start": 172.44,
+    "end": 174.78,
+    "text": " densa y resplandeciente.",
+    "tokens": [
+      50366,
+      274,
+      23364,
+      288,
+      725,
+      564,
+      11123,
+      537,
+      1576,
+      13,
+      50518
+    ],
+    "avg_logprob": -0.19117476585063528,
+    "compression_ratio": 1.3137254901960784,
+    "no_speech_prob": 0.010640679858624935,
+    "words": [
+      {
+        "start": 172.44,
+        "end": 173.02,
+        "word": " densa",
+        "probability": 0.5574813857674599
+      },
+      {
+        "start": 173.02,
+        "end": 173.58,
+        "word": " y",
+        "probability": 0.9714396595954895
+      },
+      {
+        "start": 173.58,
+        "end": 174.78,
+        "word": " resplandeciente.",
+        "probability": 0.9797112584114075
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 39,
+    "seek": 17244,
+    "start": 175.56,
+    "end": 180.74,
+    "text": " Una bola de cebo para las sardinas es una defensa final desesperada.",
+    "tokens": [
+      50518,
+      15491,
+      41110,
+      368,
+      1769,
+      1763,
+      1690,
+      2439,
+      262,
+      515,
+      17094,
+      785,
+      2002,
+      1060,
+      23364,
+      2572,
+      730,
+      34698,
+      1538,
+      13,
+      50800
+    ],
+    "avg_logprob": -0.19117476585063528,
+    "compression_ratio": 1.3137254901960784,
+    "no_speech_prob": 0.010640679858624935,
+    "words": [
+      {
+        "start": 175.56,
+        "end": 175.76,
+        "word": " Una",
+        "probability": 0.8968486785888672
+      },
+      {
+        "start": 175.76,
+        "end": 176.04,
+        "word": " bola",
+        "probability": 0.9762736558914185
+      },
+      {
+        "start": 176.04,
+        "end": 176.24,
+        "word": " de",
+        "probability": 0.9986086487770081
+      },
+      {
+        "start": 176.24,
+        "end": 176.6,
+        "word": " cebo",
+        "probability": 0.9475665092468262
+      },
+      {
+        "start": 176.6,
+        "end": 177.28,
+        "word": " para",
+        "probability": 0.28400808572769165
+      },
+      {
+        "start": 177.28,
+        "end": 177.48,
+        "word": " las",
+        "probability": 0.9768482446670532
+      },
+      {
+        "start": 177.48,
+        "end": 178.02,
+        "word": " sardinas",
+        "probability": 0.9501514236132304
+      },
+      {
+        "start": 178.02,
+        "end": 178.62,
+        "word": " es",
+        "probability": 0.6890840530395508
+      },
+      {
+        "start": 178.62,
+        "end": 178.78,
+        "word": " una",
+        "probability": 0.9980630278587341
+      },
+      {
+        "start": 178.78,
+        "end": 179.3,
+        "word": " defensa",
+        "probability": 0.9947111904621124
+      },
+      {
+        "start": 179.3,
+        "end": 179.8,
+        "word": " final",
+        "probability": 0.9832360148429871
+      },
+      {
+        "start": 179.8,
+        "end": 180.74,
+        "word": " desesperada.",
+        "probability": 0.9888560771942139
+      }
+    ],
+    "temperature": 0.0
+  },
+  {
+    "id": 40,
+    "seek": 17244,
+    "start": 181.24,
+    "end": 184.22,
+    "text": " Para los delfines es apenas el comienzo.",
+    "tokens": [
+      50800,
+      11107,
+      1750,
+      1103,
+      69,
+      1652,
+      785,
+      18561,
+      806,
+      395,
+      1053,
+      4765,
+      13,
+      50954
+    ],
+    "avg_logprob": -0.19117476585063528,
+    "compression_ratio": 1.3137254901960784,
+    "no_speech_prob": 0.010640679858624935,
+    "words": [
+      {
+        "start": 181.24,
+        "end": 181.38,
+        "word": " Para",
+        "probability": 0.9734222292900085
+      },
+      {
+        "start": 181.38,
+        "end": 181.58,
+        "word": " los",
+        "probability": 0.99033522605896
+      },
+      {
+        "start": 181.58,
+        "end": 182.14,
+        "word": " delfines",
+        "probability": 0.9532806475957235
+      },
+      {
+        "start": 182.14,
+        "end": 182.96,
+        "word": " es",
+        "probability": 0.9125950932502747
+      },
+      {
+        "start": 182.96,
+        "end": 183.32,
+        "word": " apenas",
+        "probability": 0.997019350528717
+      },
+      {
+        "start": 183.32,
+        "end": 183.6,
+        "word": " el",
+        "probability": 0.9904277324676514
+      },
+      {
+        "start": 183.6,
+        "end": 184.22,
+        "word": " comienzo.",
+        "probability": 0.9915108879407247
+      }
+    ],
+    "temperature": 0.0
+  }
+]
